@@ -1,0 +1,15 @@
+body {
+    color: rgb(85, 107, 47);
+    background-color: rgb(0, 0, 0);
+    font-family: "Winky Rough", sans-serif;
+}
+h1 {color:white; background-color: darkgreen;}
+h2 {color: darkgreen;
+    font-family: "Winky Rough", sans-serif;
+}
+nav {background-color:olivedrab;}
+nav a {color:white;}
+nav {color:white;}
+
+nav a:hover {background-color: lavenderblush;}
+a {color: darkgreen;}
